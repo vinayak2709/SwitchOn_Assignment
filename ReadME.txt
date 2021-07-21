@@ -8,7 +8,7 @@ Instead of just 100 images whole continuous video can be monitored in the projec
 2.Add MongoDB connection string in the "Mongodb connection config file"
 3.Install required packages by requirements.txt (pip install -r requirements.txt)
 4.Run the code
-5.Pleade ensure that to see the results show the bottle in the camera.
+5.Please ensure that to see the results show the bottle (anytype for demo) in the camera.
 
 Thank you.
 
