@@ -8,7 +8,7 @@ Created on Thu Jul 22 00:10:07 2021
 from pymongo import MongoClient
 import datetime
 
-url='mongodb://localhost:27017/'
+#url='mongodb://localhost:27017/'
 
 class database_operations:
     def __init__(self,url):
